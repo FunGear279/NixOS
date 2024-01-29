@@ -116,6 +116,7 @@
     packages = with pkgs; [
       firefox
     #  thunderbird
+      vscode
     ];
   };
 
